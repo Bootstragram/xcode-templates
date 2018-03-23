@@ -10,7 +10,7 @@ This repository contains some custom Xcode file templates.
 Some blog posts inspired me to start using my own templates:
 
 * [Xcode 9 File Templates](http://jeanetienne.net/2017/09/10/xcode-templates.html) by jeanetienne.net
-* [Customizing the file header comment and other text macros in Xcode 9](https://oleb.net/blog/2017/07/xcode-9-text-macros/)
+* [Customizing the file header comment and other text macros in Xcode 9](https://oleb.net/blog/2017/07/xcode-9-text-macros/) by oleb.net
 
 And some references to write them:
 
