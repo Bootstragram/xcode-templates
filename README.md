@@ -2,6 +2,11 @@
 
 This repository contains some custom Xcode file templates.
 
+## Installation
+
+* Clone the repo
+* `ln -s <repo_directory> ~/Library/Developer/Xcode/Templates/Custom`
+
 ## Why use custom templates?
 
 1. Save time when creating files in Xcode
