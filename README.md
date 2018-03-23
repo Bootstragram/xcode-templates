@@ -32,16 +32,18 @@ Why not just use the empty file template? Because it started not empty but, over
 
 The Quick File Template looks like:
 
-    import Quick
-    import Nimble
-    @testable import MyTarget
+```swift
+import Quick
+import Nimble
+@testable import MyTarget
 
-    class FileSpec: QuickSpec {
-        override func spec() {
-            describe("my spec") {
-                it("has a dummy test") {
-                    expect(true).to(beTrue())
-                }
+class FileSpec: QuickSpec {
+    override func spec() {
+        describe("my spec") {
+            it("has a dummy test") {
+                expect(true).to(beTrue())
             }
         }
     }
+}
+```
